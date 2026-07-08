@@ -1,0 +1,11 @@
+{
+  "android.app.extra.PROVISIONING_ADMIN_EXTRAS_BUNDLE": {
+    "ulatec_dpc_version": "0.2.0",
+    "ulatec_project": "galaxy-tablet-liberation",
+    "ulatec_release": "dpc-v0.2"
+  },
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME": "com.ulatec.dpc/.UlatecDeviceAdminReceiver",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "ZptY2z716BgQXdxBKZyQ-Fa2MEpvCwZ-uMEFKgdLsgY",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://github.com/michaelchristianhaley/ulatec/releases/download/dpc-v0.2/app-debug.apk",
+  "android.app.extra.PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED": true
+}
