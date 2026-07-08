@@ -30,3 +30,15 @@ Open Ulatec DPC and press:
 4. Launch Termux in kiosk mode
 
 Keep recovery buttons available until the behavior is proven.
+
+
+## Android 12+ provisioning handlers
+
+Ulatec DPC v0.2 includes the required managed-provisioning handlers:
+
+```text
+android.app.action.GET_PROVISIONING_MODE
+android.app.action.ADMIN_POLICY_COMPLIANCE
+```
+
+The app requests fully managed device provisioning and performs the first safe lock-task allowlist during policy compliance.
