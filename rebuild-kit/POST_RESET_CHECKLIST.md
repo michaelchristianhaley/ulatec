@@ -1,19 +1,22 @@
 # Post-Reset Checklist
 
-Before reset:
-- Save rebuild kit off tablet.
-- Save DPC APK off tablet.
-- Confirm phone can serve local files.
-- Confirm build machine/server has DPC source.
+## Before reset
 
-First boot:
+- Save this rebuild kit off the tablet.
+- Save the DPC APK off the tablet.
+- Save current GitHub/gist links and reports.
+- Confirm phone can serve files over local HTTP.
+- Confirm server/PC has any Android build files.
+
+## First boot / provisioning
+
 - Avoid Google account.
 - Avoid Samsung account.
 - Install/provision Ulatec DPC as Device Owner.
 - Confirm Device Owner state.
 
-Install only:
-- Ulatec DPC
+## Install only desired apps
+
 - F-Droid
 - Termux
 - Termux:Boot
@@ -21,11 +24,26 @@ Install only:
 - Canta
 - Privacy Browser
 - Rethink DNS + Firewall
+- Ulatec DPC
 
-Then:
+## Reapply controls
+
 - Set up Termux storage.
-- Set up Shizuku/rish.
-- Apply purge scripts.
-- Apply update lockdown.
-- Configure Rethink Always-on VPN and block-without-VPN.
-- Enable DPC kiosk/lock-task behavior.
+- Set up rish/Shizuku.
+- Reapply purge lists.
+- Reapply update/download lockdown.
+- Reapply Rethink firewall and Always-on VPN.
+- Configure Termux fullscreen.
+- Configure Termux:Boot and optional tmux.
+- Enable kiosk/lock task with DPC.
+
+## Verify
+
+- Wi-Fi works.
+- Termux works.
+- Shizuku/rish works.
+- Canta works.
+- F-Droid works.
+- Privacy Browser works.
+- Rethink blocks vendor egress.
+- Termux/kiosk behavior works.

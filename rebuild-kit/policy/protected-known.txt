@@ -5,4 +5,5 @@ com.samsung.klmsagent
 # Knox license / enterprise agent. Disable and uninstall refused.
 
 com.samsung.android.sm.provider
-# Seen as runtime/process string. Exact package unknown/not installed for user 0.
+# Seen as runtime/process/service-looking string.
+# Exact package name was unknown / not installed for user 0 in current checks.

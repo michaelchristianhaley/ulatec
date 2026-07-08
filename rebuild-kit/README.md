@@ -1,11 +1,13 @@
 # Ulatec Rebuild Kit v0
 
+Purpose: prepare the factory-reset / Device Owner branch of the Galaxy Tablet Liberation project.
+
 Locked task order:
 
-1. Build rebuild kit.
-2. Build tiny Ulatec DPC.
+1. Build the rebuild kit.
+2. Build a tiny Ulatec DPC.
 3. Factory reset.
-4. Enable DPC during first boot/provisioning.
-5. Script tablet back to purged state with only: DPC, F-Droid, Termux, Termux:Boot, Shizuku, Canta, Privacy Browser, Rethink.
+4. Enable the DPC during first boot / provisioning.
+5. Script the tablet back to the hardened/purged state with only the intended tools.
 
-Do not factory reset until the DPC APK and this kit are saved off-device.
+Do not factory reset until the DPC APK and post-reset files are ready and saved off-device.
