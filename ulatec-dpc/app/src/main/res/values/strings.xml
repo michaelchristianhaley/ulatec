@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ulatec DPC</string>
+    <string name="device_admin_description">Controls Ulatec kiosk policy on this tablet.</string>
+</resources>
