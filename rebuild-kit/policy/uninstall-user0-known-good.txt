@@ -1,0 +1,8 @@
+com.google.android.gms
+com.google.android.gsf
+com.google.android.configupdater
+com.google.android.rkpdapp
+com.google.android.photopicker
+com.sec.android.app.SecSetupWizard
+com.samsung.android.sdm.config
+com.samsung.android.scpm

@@ -1,0 +1,8 @@
+com.samsung.android.kgclient
+# Knox Guard. Active hidden Device Admin. Shell removal blocked as non-test admin.
+
+com.samsung.klmsagent
+# Knox license / enterprise agent. Disable and uninstall refused.
+
+com.samsung.android.sm.provider
+# Seen as runtime/process string. Exact package unknown/not installed for user 0.

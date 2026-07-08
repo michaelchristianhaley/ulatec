@@ -1,0 +1,8 @@
+com.samsung.android.game.gos
+com.google.android.cellbroadcastreceiver
+com.samsung.android.scpm
+com.samsung.android.sdm.config
+com.samsung.android.scs
+com.samsung.android.net.wifi.wifiguider
+com.samsung.android.lool
+com.sec.imsservice
